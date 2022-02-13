@@ -6,4 +6,6 @@ la segunda vez elimine un archivo bno dos y no supe volver atras
 
 esta es la tercera vez que creo un commit para que queden varios guardados y ahora hacer un diff de esos y mirar las diferencias
 
+Master 1 
+
 mañana nos enfocaremos en su vida laboral, osea ninguna
