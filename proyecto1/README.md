@@ -8,3 +8,4 @@ En este curso vemos de todo:
 * El flujo de trabajo que se maneja en github.
 * Buenas practicas como lo puede ser un pull antes de hacer push.
 * lo puedes ver en la comodidad de tu casa, o en el celular o desde donde lo desees (claro,si tienes internet)
+* incluye ejemplos en windows, linux y mac.
